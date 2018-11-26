@@ -1,0 +1,2 @@
+# FragmentLazy
+ViewPager不设置预加载和Fragment只加载一次
