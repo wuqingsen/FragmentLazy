@@ -68,3 +68,5 @@ ViewPager不设置预加载和Fragment只加载一次。
 ```
 最主要的始要明白上面三个参数的使用，要知道只有达到下面的条件时才可以进行加载数据：
 此 Fragment 初始化完成、此 Fragment 没有加载过并且此 Fragment 处于可见状态下去加载数据。　　
+
+下面是我的CSDN地址：https://blog.csdn.net/wuqingsen1/article/details/84544665
