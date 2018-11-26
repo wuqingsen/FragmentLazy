@@ -6,6 +6,7 @@ ViewPager不设置预加载和Fragment只加载一次。
 ![1](https://github.com/wuqingsen/FragmentLazy/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/1.png)  
 
 **1、定义参数**
+
 主要参数为下面三个参数，要充分理解意思才能更好的运用：
 
 ```
